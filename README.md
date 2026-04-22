@@ -1,11 +1,31 @@
-# Brown-Forman
+# Brown-Forman (brown-forman)
+Brown-Forman Corporation is one of the largest American-owned spirits and wine companies in the world, established in 1870 and headquartered in Louisville, Kentucky. The company produces, bottles, imports, exports, markets, and sells a wide variety of alcoholic beverages under brands including Jack Daniel's, Woodford Reserve, Old Forester, Herradura, El Jimador, Slane Irish Whiskey, Benriach, Chambord, Diplomático, and Ford's Gin. Brown-Forman is traded on the NYSE under tickers BF.A and BF.B.
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Brown-Forman.
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/brown-forman/refs/heads/main/apis.yml)
+
+## Tags:
+
+ - Beverages, Consumer Goods, Gin, RTD, Rum, Spirits, Tequila, Whiskey
+
+## Timestamps
+
+- **Created:** 2026-03-23
+- **Modified:** 2026-04-21
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented for Brown-Forman. Check back for updates.
 
-## Properties
+## Common Properties
 
 - [Website](https://www.brown-forman.com)
+- [InvestorRelations](https://ir.brown-forman.com)
+- [PrivacyPolicy](https://www.brown-forman.com/legal/privacy-policy/)
+- [TermsOfService](https://www.brown-forman.com/legal/terms-of-use/)
+- [Blog](https://www.brown-forman.com/news/)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
