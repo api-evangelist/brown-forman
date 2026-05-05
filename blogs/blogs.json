@@ -1,0 +1,13 @@
+{
+  "repo": "brown-forman",
+  "feeds": [
+    {
+      "source": "https://www.brown-forman.com/news/",
+      "feed_url": "https://www.brown-forman.com/rss.xml",
+      "saved": 10,
+      "title": "Brown Forman"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:24:53Z"
+}
