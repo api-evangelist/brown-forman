@@ -17,7 +17,7 @@ tags:
   - Spirits
   - Tequila
   - Whiskey
-x-type: company
+kind: company
 apis: []
 common:
   - type: Website
