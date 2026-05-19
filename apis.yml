@@ -20,6 +20,10 @@ tags:
 kind: company
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Brown-Forman
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/brown-forman
   - type: Website
     url: https://www.brown-forman.com
   - type: InvestorRelations
