@@ -21,6 +21,8 @@ tags:
 kind: company
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/brown-forman-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Brown-Forman
   - type: LinkedIn
