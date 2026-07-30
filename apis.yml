@@ -1,4 +1,16 @@
 aid: brown-forman
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/brown-forman.png
 name: Brown-Forman
 url: https://raw.githubusercontent.com/api-evangelist/brown-forman/refs/heads/main/apis.yml
 description: >-
