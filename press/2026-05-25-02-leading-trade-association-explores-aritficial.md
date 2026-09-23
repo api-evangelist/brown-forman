@@ -1,7 +1,9 @@
 ---
 title: LEADING TRADE ASSOCIATION EXPLORES ARITFICIAL ...
 url: https://www.prnewswire.com/news-releases/leading-trade-association-explores-aritficial-intelligence-in-the-alcohol-marketplace-302364667.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brown-Forman" press release artificial intelligence'
 position: 2
 source: serpapi-google

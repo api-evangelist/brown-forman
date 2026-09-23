@@ -1,7 +1,9 @@
 ---
 title: Brown-Forman's Post
 url: https://www.linkedin.com/posts/brown-forman_brownforman-announces-chief-information-activity-7019380445414899713-HFxi
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brown-Forman" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Leading Trade Association Explores Artificial Intelligence ...
 url: https://www.nabca.org/news-release/leading-trade-association-explores-artificial-intelligence-alcohol-marketplace
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brown-Forman" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: How Brown-Forman Is Evolving to Win the Digital Shelf
 url: https://consumergoods.com/glass-box-models-and-ai-fueled-creative-how-brown-forman-evolving-win-digital-shelf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brown-Forman" press release artificial intelligence'
 position: 5
 source: serpapi-google

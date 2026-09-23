@@ -1,7 +1,9 @@
 ---
 title: Pernod Ricard Confirms Discussions With Brown-Forman
 url: https://aijourn.com/pernod-ricard-confirms-discussions-with-brown-forman/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Brown-Forman" press release artificial intelligence'
 position: 4
 source: serpapi-google
