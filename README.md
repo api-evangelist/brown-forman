@@ -1,4 +1,4 @@
-# Brown-Forman (brown-forman)
+# Brown-Forman
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,31 +66,81 @@
 
 Brown-Forman Corporation is one of the largest American-owned spirits and wine companies in the world, established in 1870 and headquartered in Louisville, Kentucky. The company produces, bottles, imports, exports, markets, and sells a wide variety of alcoholic beverages under brands including Jack Daniel's, Woodford Reserve, Old Forester, Herradura, El Jimador, Slane Irish Whiskey, Benriach, Chambord, Diplomático, and Ford's Gin. Brown-Forman is traded on the NYSE under tickers BF.A and BF.B.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/brown-forman/refs/heads/main/apis.yml)
+**Areas:** Beverages · Consumer Goods · Gin · RTD · RUM · Spirits · Tequila · Whiskey · Fortune 1000 · Food and Beverage
 
-## Tags:
+## Brown-Forman on APIs.io
 
- - Beverages, Consumer Goods, Gin, RTD, Rum, Spirits, Tequila, Whiskey
+Everything profiled for Brown-Forman is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brown-forman/](https://apis.io/providers/brown-forman/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-21
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-No public APIs have been documented for Brown-Forman. Check back for updates.
+Authentication, trust centre, and vulnerability disclosure.
 
-## Common Properties
+- [Brown Forman Domain Security](https://apis.io/security/brown-forman/brown-forman-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.brown-forman.com)
-- [InvestorRelations](https://ir.brown-forman.com)
-- [PrivacyPolicy](https://www.brown-forman.com/legal/privacy-policy/)
-- [TermsOfService](https://www.brown-forman.com/legal/terms-of-use/)
 - [Blog](https://www.brown-forman.com/news/)
+- [Terms of service](https://www.brown-forman.com/legal/terms-of-use/)
+- [Privacy policy](https://www.brown-forman.com/legal/privacy-policy/)
+- [GitHub](https://github.com/Brown-Forman)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brown-forman/](https://apis.io/providers/brown-forman/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Brown-Forman: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brown-forman/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
